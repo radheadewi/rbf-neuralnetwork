@@ -1,10 +1,12 @@
 # rbf-neuralnetwork
 
 *Files Explanation*
+
 1. Research Codes.ipynb contains complete Python codes of all experiments explained in Research Report.pdf.
 2. Research Report.pdf contains complete explanation of experiments.
 
 *Project Description*
+
 The experiment of putting different amount of data into Radial Basis Function Neural Network (RBF NN) in Python. The dataset used is Limit Order Book (LOB) Data.
 RBF FF is an artificial neural network that uses radial basis functions as activation functions.
 
